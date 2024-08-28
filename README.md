@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -20,17 +19,30 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Using the app
 
-To learn more about Next.js, take a look at the following resources:
+### On Home Page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- On navigating to **Browse Jobs** tabs you will see, all the available jobs
+- On clicking on **Jobs Community** youl'll see content about community
+- On clicking **Explore Jobs** you'll see a **Not Found** Page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### On Browse Jobs
+- You'll see all the jobs listed on the platform
+- On Clicking on View Details you'll details about the job
+- On Clicking on Apply, you'll find a signup form to enter job seeker's details and also will be albe to upload resume
+- On Clicking apply the applicant's details are saved in the database
 
-## Deploy on Vercel
+- On Clicking on the logo you'll go back to home page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tech stack used
+- Nextjs
+- Reactjs
+- Javascript
+- Nodejs
+- Sql-lite
+- CSS
+- HTML
+
+
